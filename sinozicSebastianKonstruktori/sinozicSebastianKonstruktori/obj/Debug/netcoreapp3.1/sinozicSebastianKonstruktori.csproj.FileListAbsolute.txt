@@ -1,0 +1,13 @@
+C:\Users\sebas\source\repos\sinozicSebastianKonstruktori\sinozicSebastianKonstruktori\bin\Debug\netcoreapp3.1\sinozicSebastianKonstruktori.exe
+C:\Users\sebas\source\repos\sinozicSebastianKonstruktori\sinozicSebastianKonstruktori\bin\Debug\netcoreapp3.1\sinozicSebastianKonstruktori.deps.json
+C:\Users\sebas\source\repos\sinozicSebastianKonstruktori\sinozicSebastianKonstruktori\bin\Debug\netcoreapp3.1\sinozicSebastianKonstruktori.runtimeconfig.json
+C:\Users\sebas\source\repos\sinozicSebastianKonstruktori\sinozicSebastianKonstruktori\bin\Debug\netcoreapp3.1\sinozicSebastianKonstruktori.runtimeconfig.dev.json
+C:\Users\sebas\source\repos\sinozicSebastianKonstruktori\sinozicSebastianKonstruktori\bin\Debug\netcoreapp3.1\sinozicSebastianKonstruktori.dll
+C:\Users\sebas\source\repos\sinozicSebastianKonstruktori\sinozicSebastianKonstruktori\bin\Debug\netcoreapp3.1\sinozicSebastianKonstruktori.pdb
+C:\Users\sebas\source\repos\sinozicSebastianKonstruktori\sinozicSebastianKonstruktori\obj\Debug\netcoreapp3.1\sinozicSebastianKonstruktori.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\sinozicSebastianKonstruktori\sinozicSebastianKonstruktori\obj\Debug\netcoreapp3.1\sinozicSebastianKonstruktori.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\sinozicSebastianKonstruktori\sinozicSebastianKonstruktori\obj\Debug\netcoreapp3.1\sinozicSebastianKonstruktori.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\sinozicSebastianKonstruktori\sinozicSebastianKonstruktori\obj\Debug\netcoreapp3.1\sinozicSebastianKonstruktori.AssemblyInfo.cs
+C:\Users\sebas\source\repos\sinozicSebastianKonstruktori\sinozicSebastianKonstruktori\obj\Debug\netcoreapp3.1\sinozicSebastianKonstruktori.dll
+C:\Users\sebas\source\repos\sinozicSebastianKonstruktori\sinozicSebastianKonstruktori\obj\Debug\netcoreapp3.1\sinozicSebastianKonstruktori.pdb
+C:\Users\sebas\source\repos\sinozicSebastianKonstruktori\sinozicSebastianKonstruktori\obj\Debug\netcoreapp3.1\sinozicSebastianKonstruktori.genruntimeconfig.cache
